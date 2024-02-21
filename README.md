@@ -1,3 +1,1 @@
-"# Neuralprophet-time-series-forecasting" 
-"# Neuralprophet-time-series-forecasting" 
-"# Neuralprophet-time-series-forecasting" 
+Neuralprophet forecasting for time series prediction from self-sensing materials within the ReCity project
