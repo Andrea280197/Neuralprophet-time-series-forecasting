@@ -28,15 +28,15 @@ To run the project locally, follow these steps:
 
 Clone the repository to your local machine:
 
-'git clone https://github.com/your-username/your-repository.git'
+'''git clone https://github.com/your-username/your-repository.git'''
 
 Navigate to the project directory:
 
-cd your-repository
+'''cd your-repository'''
 
 Install the required dependencies using pip:
 
-pip install -r requirements.txt
+'''pip install -r requirements.txt'''
 
 
 ## Usage
@@ -51,7 +51,7 @@ To use the project, follow these steps:
 
 - Run the data.py script to perform data processing, model training, and forecasting:
 
-  python data.py
+  '''python data.py'''
 
 After running the script, you should see visualizations and output related to the forecasted values and model performance.
 
