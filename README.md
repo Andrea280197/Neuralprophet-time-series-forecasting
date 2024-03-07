@@ -14,10 +14,13 @@ Time series forecasting involves predicting future values based on historical da
 
 This project demonstrates the following steps:
 
-Data Preparation: Data is loaded from an Excel file containing inclinometric and pluviometric measurements.
-Preprocessing: The data is preprocessed, including handling missing values, converting data types, and filtering based on date ranges.
-Model Training: A NeuralProphet model is trained using the prepared data, with additional features such as lagged regressors for improved forecasting accuracy.
-Evaluation and Visualization: The trained model is used to make predictions, and the results are visualized using plots to assess the model's performance.
+- Data Preparation: Data is loaded from an Excel file containing inclinometric and pluviometric measurements.
+
+- Preprocessing: The data is preprocessed, including handling missing values, converting data types, and filtering based on date ranges.
+
+- Model Training: A NeuralProphet model is trained using the prepared data, with additional features such as lagged regressors for improved forecasting accuracy.
+
+- Evaluation and Visualization: The trained model is used to make predictions, and the results are visualized using plots to assess the model's performance.
 
 ## Installation
 
@@ -25,7 +28,7 @@ To run the project locally, follow these steps:
 
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/your-repository.git
+'git clone https://github.com/your-username/your-repository.git'
 
 Navigate to the project directory:
 
