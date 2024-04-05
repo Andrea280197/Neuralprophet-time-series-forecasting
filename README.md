@@ -1,5 +1,8 @@
 # Time Series Forecasting with NeuralProphet
 
+![111388960-6c367e80-866d-11eb-91c1-46f2c0d21879](https://github.com/Andrea280197/Neuralprophet-time-series-forecasting/assets/119070619/a08454ca-760d-4a4f-825a-ac2c71a869f1)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -53,6 +56,9 @@ To use the project, follow these steps:
  `python data.py`
 
 After running the script, you should see visualizations and output related to the forecasted values and model performance.
+
+![Figure_1](https://github.com/Andrea280197/Neuralprophet-time-series-forecasting/assets/119070619/18467c7a-a4a9-4047-ad2d-aa432b27ba67)
+
 
 ## File Descriptions
 
